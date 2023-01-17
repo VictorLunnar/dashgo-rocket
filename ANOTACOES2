@@ -1,14 +1,17 @@
 ============ O que aprendi ==================
-• 
-
-
 ============ Desafios superados =============
-
-• 
 ============ O que vou usar =================
-
-• 
 
 =============================================
                  ANOTACOES
 =============================================
+
+Quando formos utilizar um icone dentro do chakra atraves
+de 3rd party app é recomendado usar a tag ICON do chakra,
+ex: ao inves de -> <IconeNome/> usar <Icon as={IconeNome}/>
+
+Stack sempre vem em coluna, podemos usar a propriedade direction=""
+ou usar HStack para deixar horizontal sem precisar declarar coisas
+desnecessarias (existe tambem o VStack)
+
+github.com/seuperfil.png retorna sua foto de perfil do GitHub
