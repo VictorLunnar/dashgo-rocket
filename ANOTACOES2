@@ -15,3 +15,6 @@ ou usar HStack para deixar horizontal sem precisar declarar coisas
 desnecessarias (existe tambem o VStack)
 
 github.com/seuperfil.png retorna sua foto de perfil do GitHub
+
+https://apexcharts.com/ para usar graficos com react
+    $ yarn add apexcharts react-apexcharts
